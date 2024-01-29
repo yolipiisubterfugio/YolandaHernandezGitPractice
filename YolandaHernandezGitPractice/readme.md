@@ -36,6 +36,18 @@ Fast-forward
 
 git log --graph --oneline --all
 
+PS C:\Users\Yolanda Hernández\Desktop\YolandaHernandezGitPractice> git log --graph --oneline --all
+>>
+* 523dda8 (HEAD -> master) Leeme, porfaplis
+*   a635a27 formato html
+|\
+* | 990303d (tag: htmlify) formato html
+| | * a76993d (tag: title) titulo y subtitulo
+| |/
+| * 3f754fc (tag: styled) formato markdown
+|/
+* 8746410 (tag: inicial) Oda al git
+
 ● El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
 El tema del fast forward o no lo entiendo como una manera de visualizar el grafo por lo que entiendo que podría aplicarse de sendas maneras
